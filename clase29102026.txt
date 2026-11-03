@@ -1,0 +1,1 @@
+En la clase del 29/10/2026 vimos librerias  Numpy (areglo númerico), Numpy calcula números de forma rápida, vimos funciones como pontencia, máscara booleana, función seno, propiedades de estadistica como la emdia y la moda entre otras
