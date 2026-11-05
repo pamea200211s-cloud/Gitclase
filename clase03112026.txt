@@ -1,0 +1,4 @@
+En esta clase vimos Libreria Panda dataframe y series:la tabla y sus columnas
+Dataframe es una matrix de numpay que nos va a tener los nombres de las columnas y las filas.
+
+Vimos basicamente como filtrar información acá, como llamar filas, como es la forma de los datos, máscara booleana, como ubicar pocisiones, ver información de valores nulos, eliminar valores nulos, llenar valores nuelos ETC.   
