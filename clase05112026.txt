@@ -1,0 +1,1 @@
+En esta clase trabajamos con la IA y vimos matplolib, una libreria que sirve para hacer gráficas
